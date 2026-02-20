@@ -62,7 +62,7 @@ To work as a Native iOS Developer and grow into a professional who combines:
 
 Feel free to connect
 
-- GitHub: https://github.com/USERNAME
+- GitHub: https://github.com/kutlukaan
 - LinkedIn : https://www.linkedin.com/in/kutlukaancelik/
 - Mail : celikkutlukaan@gmail.com 
 
