@@ -42,7 +42,10 @@ To work as a Native iOS Developer and grow into a professional who combines:
 ### Also Using
 - Flutter / Dart (hobby projects)  
 - Git & GitHub  
-- Python (for AI and automation)  
+- PostgreSQL
+- Railway
+- Redis
+- Cloudflare
 
 ---
 
