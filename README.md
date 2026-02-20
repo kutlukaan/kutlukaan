@@ -1,9 +1,9 @@
 # Hi I'm Kutlu Kaan
 
-🚀 Aspiring Native iOS Developer  
-📱 Swift-focused mobile development  
-🧠 Actively using modern AI technologies  
-📊 Management Information Systems student  
+- Aspiring Native iOS Developer  
+- Swift-focused mobile development  
+- Actively using modern AI technologies  
+- Management Information Systems student  
 
 ---
 
@@ -13,9 +13,9 @@ I’m a developer on the path to becoming a **Native iOS Developer**, mainly wor
 
 Academically, I study **Management Information Systems**. Alongside improving my technical skills, I’m also developing myself in:
 
-- 📊 Project management  
-- 👥 Team management  
-- 🧩 Product-oriented thinking  
+-  Project management  
+-  Team management  
+-  Product-oriented thinking  
 
 Flutter is currently more of a hobby for me, while my professional focus is Swift and native iOS development.
 
