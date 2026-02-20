@@ -1,3 +1,7 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kutlukaan&show_icons=true&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kutlukaan&layout=compact)
+
 # Hi I'm Kutlu Kaan
 
 - Aspiring Native iOS Developer  
