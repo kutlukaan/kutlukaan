@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi I'm Kutlu Kaan
 
-<!--
-**kutlukaan/kutlukaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Native iOS Developer  
+📱 Swift-focused mobile development  
+🧠 Actively using modern AI technologies  
+📊 Management Information Systems student  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I’m a developer on the path to becoming a **Native iOS Developer**, mainly working with **Swift**.
+
+Academically, I study **Management Information Systems**. Alongside improving my technical skills, I’m also developing myself in:
+
+- 📊 Project management  
+- 👥 Team management  
+- 🧩 Product-oriented thinking  
+
+Flutter is currently more of a hobby for me, while my professional focus is Swift and native iOS development.
+
+I believe great software is built not only with good code, but also with proper planning and strong teamwork.
+
+---
+
+## Career Goal
+
+To work as a Native iOS Developer and grow into a professional who combines:
+
+- Technical expertise  
+- Project management  
+- Team collaboration  
+
+---
+
+##  Tech Stack
+
+### Main Focus
+- Swift  
+- iOS Development  
+
+### Also Using
+- Flutter / Dart (hobby projects)  
+- Git & GitHub  
+- Python (for AI and automation)  
+
+---
+
+##  Currently Focusing On
+
+- Advanced Swift & iOS architectures  
+- Mobile app design patterns  
+- Actively using modern AI technologies  
+- Project & team management approaches  
+
+---
+
+##  Contact
+
+Feel free to connect
+
+- GitHub: https://github.com/USERNAME
+- LinkedIn : https://www.linkedin.com/in/kutlukaancelik/
+- Mail : celikkutlukaan@gmail.com 
+
+---
+
+ Always learning. Always building.
