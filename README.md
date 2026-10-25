@@ -1,5 +1,7 @@
 # Hi, I'm Kutlu Kaan 👋
 
+🇬🇧 English · [🇹🇷 Türkçe](https://github.com/kutlukaan/kutlukaan/blob/main/README.tr.md)
+
 **Software Developer · Product & Project Management**
 Founder and sole developer of **[Yourdest](https://yourdest.com)**, a place discovery app with AI-powered recommendations, live on the App Store and Google Play.
 
@@ -12,11 +14,11 @@ Founder and sole developer of **[Yourdest](https://yourdest.com)**, a place disc
 
 ## 🙋 About Me
 
-I want to work where software development meets product and project management, as part of a strong team, for the long run.
+I'm most interested in where software development meets product and project management: not only building a product, but planning, prioritizing and delivering it with a team.
 
 Building Yourdest from scratch to the App Store and Google Play taught me every stage of a product, from idea to launch: 5 codebases, 15+ external services and two store review processes. Along the way I learned that good software is not only good code. It also takes clear priorities, planning and steady delivery.
 
-That is why I am especially interested in **Agile, Scrum, and product & project management**. I studied Management Information Systems, and I keep building on that with certifications:
+That is what draws me to **Agile, Scrum, and product & project management**. I studied Management Information Systems, and I keep building on that with certifications:
 
 - Agile & Scrum Management · Global Enstitü (Jun 2026)
 - Project Management · BTK Akademi (Mar 2026)
