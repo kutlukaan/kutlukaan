@@ -1,75 +1,66 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kutlukaan&show_icons=true&hide_title=true)
+# Hi, I'm Kutlu Kaan 👋
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kutlukaan&layout=compact)
+**Software Developer · Product & Project Management**
+Founder and sole developer of **[Yourdest](https://yourdest.com)**, a place discovery app with AI-powered recommendations, live on the App Store and Google Play.
 
-# Hi I'm Kutlu Kaan
-
-- Aspiring Native iOS Developer  
-- Swift-focused mobile development  
-- Actively using modern AI technologies  
-- Management Information Systems student  
-
----
-
-## About Me
-
-I’m a developer on the path to becoming a **Native iOS Developer**, mainly working with **Swift**.
-
-Academically, I study **Management Information Systems**. Alongside improving my technical skills, I’m also developing myself in:
-
--  Project management  
--  Team management  
--  Product-oriented thinking  
-
-Flutter is currently more of a hobby for me, while my professional focus is Swift and native iOS development.
-
-I believe great software is built not only with good code, but also with proper planning and strong teamwork.
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/tr/app/yourdest/id6766088371)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.yourdest.app)
+[![yourdest.com](https://img.shields.io/badge/yourdest.com-FF5A5F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourdest.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kutlukaancelik/)
 
 ---
 
-## Career Goal
+## 🚀 Yourdest
 
-To work as a Native iOS Developer and grow into a professional who combines:
+A venue discovery and recommendation app for Istanbul and Tekirdağ. I designed and built the whole product myself and took it from idea to the App Store in 12 months.
 
-- Technical expertise  
-- Project management  
-- Team collaboration  
+- **5 codebases:** Flutter mobile app · .NET backend · 2 React admin panels · corporate website
+- **15+ integrated services:** Railway, Cloudflare, Netlify, Resend, Firebase, iyzico, Google Maps, Gemini API
+- **Store releases:** handled App Store and Google Play reviews end to end (3 rejections → fixes → approval)
+- **Product side:** pricing and plans, trial model, recommendation philosophy, UX
+- **Business side:** company setup, payment provider approval, KVKK / e-commerce compliance
 
----
+🌐 [yourdest.com](https://yourdest.com) · 🍎 [App Store](https://apps.apple.com/tr/app/yourdest/id6766088371) · 🤖 [Google Play](https://play.google.com/store/apps/details?id=com.yourdest.app)
 
-##  Tech Stack
-
-### Main Focus
-- Swift  
-- iOS Development  
-
-### Also Using
-- Flutter / Dart (hobby projects)  
-- Git & GitHub  
-- PostgreSQL
-- Railway
-- Redis
-- Cloudflare
+> The code is private. Samples are available on request.
 
 ---
 
-##  Currently Focusing On
+## 🎓 Recommendation engine thesis
 
-- Advanced Swift & iOS architectures  
-- Mobile app design patterns  
-- Actively using modern AI technologies  
-- Project & team management approaches  
+*"Personalized Recommendation System and Scoring Algorithm Design with Multi-Criteria Decision Making: The Yourdest Case"*
+A 10-factor scoring model based on the Weighted Sum Model (WSM). It is the academic foundation of Yourdest's live recommendation engine.
 
----
-
-##  Contact
-
-Feel free to connect
-
-- GitHub: https://github.com/kutlukaan
-- LinkedIn : https://www.linkedin.com/in/kutlukaancelik/
-- Mail : celikkutlukaan@gmail.com 
+B.Sc. Management Information Systems, Beykent University (full scholarship, 2022–2026)
 
 ---
 
- Always learning. Always building.
+## 🛠️ Tech Stack
+
+[![Tech stack](https://skillicons.dev/icons?i=flutter,dart,swift,react,ts,cs,dotnet,postgres,redis,cloudflare,netlify,firebase,git,vscode&perline=7)](https://skillicons.dev)
+
+| Area | Tools |
+|---|---|
+| Mobile & Web | Flutter, Dart, Swift, React, TypeScript |
+| Backend | C#, .NET, PostgreSQL, Redis, REST API |
+| Infra & Services | Railway, Cloudflare, Netlify, Resend, Firebase, iyzico, Google Maps, Gemini API |
+| Release | App Store Connect, Google Play Console, TestFlight |
+| Way of working | Agile / Scrum · AI agents (Claude Code, Cursor) as part of my workflow: I direct them, I don't hand off the thinking |
+
+---
+
+## 💼 Experience
+
+- **Yourdest**: Founder & Developer (Aug 2025 – present)
+- **Çillem Sigorta**: Digital Processes Intern (Jul – Aug 2026)
+- **Mostidea**: Mobile Software Intern, Flutter + .NET CRM app (Jul – Aug 2025)
+
+---
+
+## 🔥 Activity
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kutlukaan&theme=transparent&hide_border=true)](https://github.com/kutlukaan)
+
+---
+
+📫 [LinkedIn](https://www.linkedin.com/in/kutlukaancelik/) · celikkutlukaan@gmail.com
